@@ -1,0 +1,7 @@
+cff-version: 1.2.0=
+authors:
+  - family-names: Boz
+    given-names: Ahmet=
+title: "3D Projectile Trajectory Visualiser"
+version: 0.0.1
+date-released: 2024
